@@ -24,6 +24,7 @@ The long-term vision is a portable, airline-agnostic travel credential that any 
 - **Functions exposed:** see `Key Features` above and the `pub fn` list in `lib.rs`.
 - **Contract ID:** CDZF62OXXX2M2QFW6CBLYYZXFV4FVXKJKWIIY6TGEF3J3VHHJWW4CCR3
 - **Explorer template:** https://stellar.expert/explorer/testnet/tx/186e4bc639ce39b43d9aff4242b3e1fc78a2edfff607ac790d26970a4d177346
+ 
 ![screenshot](https://i.ibb.co/Z62p2tP8/Screenshot-2026-06-05-221614.png)
 
 ## Future Scope
@@ -35,6 +36,6 @@ The long-term vision is a portable, airline-agnostic travel credential that any 
 
 ## Profile
 
-- **Name:** <!-- Fill github name -->
+- **Name:** HectorLun
 - **Project:** `boarding_pass` (travel)
 - **Built with:** Soroban SDK 25, Rust, Stellar Testnet
